@@ -16,6 +16,18 @@ Variables and stuff
 type() => show type
 convert int to str =>  my_int_str = str( int )
 also other way =>   my_str_int = int(str)   or   float()
+```
+```
+Add         +   +=
+Remove      -   -=
+Multiply    *   *=
+Divide      /   /=
 
-+ - * / **(expo)
+Expo        **
+```
+
+- fStrings to injects vars
+```python
+score = 100
+print(f"Wow your score is {score}")
 ```
